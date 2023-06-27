@@ -1,0 +1,102 @@
+"""
+DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN 
+
+Figure out how to use toggles ('Click here to show') to hide ugly code for non python users. 
+
+
+
+
+
+
+
+
+JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL JOEL 
+
+On the Total Employee Compensation by Business Area slide the total compensation for a police officers is around $450,000,000. 
+Which means that the police officers are getting an average salary of $126,000, or something close to that. That average just seems a little high.
+
+ 
+
+The percentage COSA’s total comp by business area slide- The text is a little too small on the table- it shows good data but you want to 
+make sure that people will be able to read it easily. Maybe split the table up in half, make the text bigger and that way the slide looks more balanced too.
+
+ 
+
+20 highest paid employees slide- I would format the numbers so they have commas- makes it much easier to read numbers that way. 
+This is just a personal preference but I like to exclude the cents. 
+When talking about most things, salary included, the cents don’t matter. 
+If you want to keep the cents in though, just use up the hundredths place. No need for those extra zeroes.
+
+ 
+
+Highest and lowest paying jobs slide- hard to read the numbers unless the slide is on a big screen. 
+If you want to include all of the jobs and their comp, use the empty space and make the font bigger.
+
+ 
+
+Pie charts- make sure that the labels are a little more spread out. 
+You can make lines connecting the labels and the piece of the pie chart they correspond to so you can spread them out more.
+
+ 
+
+20 highest paying library employees slide- looks good, clean and balanced. Just change the formatting on the numbers.
+
+ 
+
+Reference employees- make the axis bigger, they are hard to read.
+
+ 
+
+Correlations slide- besides the title of the slide, make sure that the axis labels are all the same size.
+
+ 
+
+Color scheme on slides was balanced and nice to look at. Sorry it took me so long to get back to you, 
+I was out of town last weekend so didn’t have much time. But nice job with the ppt. Let me know if you have any questions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD
+
+NUM EMPLOYEES PER BUSINESS AREA
+sumarize what is important
+
+WHAT DOES COMP PER EMPLOYEE LOOK LIKE FOR EACH DEPARMENT
+or compare percentages
+"Policy makes up x% of all employees, but x% of compensation"
+
+PERCENTAGE OF COSA'S TOTAL COMPENSATION
+what does this slide look like if it is total employees instead of total comp?
+Then you could do a scatter plot of the two percentages:  who makes up a high percentage of compensation but lower % of employees, etc?
+I am envisioning a plot with four quandrants
+
+20 HIGHEST PAID
+Showing compensation like this is probably not easy for people to read.  You don’t need the decimal places, and should display it as $444,761
+
+AVERAGE ANNUAL SALARY PER BUSINESS AREA
+See that parks and rec are at the very bottom here, but where pretty high in total compensation – 
+so they have a lot of low paid people.
+Pull out what else is interesting?
+
+HIGHEST VS LOWEST PAYING JOBS 
+What is interesting here?
+And same comment on displaying the compensation
+
+NUMBER OF EMPLOYEES WITHDRAWN BY MONTH
+What does Withdrawn mean?  Is this turnover?
+
+NUMBER OF COSA WITHDRAWN VS TOTAL
+Seeing this as a percentage would be interesting
+15.9% for Black
+11.6% for Hispanic
+9.4% for White
+doesn't like pie graph
+
+LIBRARINS IS
+This would be interesting to see combing all librarians I II and III
+Then it’d be good to cut it by gender, race, ethnicity, age
+
+
+CORRELATION
+How does this correlation (comp vs years of service) differ for race, ethnicity, gender, etc?
+"""

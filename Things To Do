@@ -3,8 +3,8 @@ DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN DAN 
 
 Figure out how to use toggles ('Click here to show') to hide ugly code for non python users. 
 
-Use tags for the pie charts rather than the whole title of ethnicity
-You can make lines connecting the labels and the piece of the pie chart they correspond to so you can spread them out more.
+
+
 
 
 
@@ -22,14 +22,6 @@ DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD DAD 
 NUM EMPLOYEES PER BUSINESS AREA
 sumarize what is important
 
-WHAT DOES COMP PER EMPLOYEE LOOK LIKE FOR EACH DEPARMENT
-
-PERCENTAGE OF COSA'S TOTAL COMPENSATION
-
-
-20 HIGHEST PAID
-
-
 AVERAGE ANNUAL SALARY PER BUSINESS AREA
 See that parks and rec are at the very bottom here, but where pretty high in total compensation – 
 so they have a lot of low paid people.
@@ -41,19 +33,3 @@ And same comment on displaying the compensation
 
 NUMBER OF EMPLOYEES WITHDRAWN BY MONTH
 What does Withdrawn mean?  Is this turnover?
-
-NUMBER OF COSA WITHDRAWN VS TOTAL
-Seeing this as a percentage would be interesting
-15.9% for Black
-11.6% for Hispanic
-9.4% for White
-doesn't like pie graph
-
-LIBRARINS IS
-This would be interesting to see combing all librarians I II and III
-Then it’d be good to cut it by gender, race, ethnicity, age
-
-
-CORRELATION
-How does this correlation (comp vs years of service) differ for race, ethnicity, gender, etc?
-"""
